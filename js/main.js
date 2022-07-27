@@ -22,6 +22,16 @@ function imagenAleatoria(){
           './images/19.jpeg',
           './images/20.jpeg',
           './images/21.jpeg',
+          './images/22.jpeg',
+          './images/23.jpeg',
+          './images/24.jpeg',
+          './images/25.jpeg',
+          './images/26.jpeg',
+          './images/27.jpeg',
+          './images/28.jpeg',
+          './images/29.jpeg',
+          './images/30.jpeg',
+          './images/31.jpeg'
         ];
         
         function obtenerImagenAleatoria() {
