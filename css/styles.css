@@ -3,9 +3,9 @@ body{
 }
 
 button {
-    margin: 5% 43% 0;
-    width: 200px;
-    height: 50px;
+    margin: 5% 35% 0;
+    width: 400px;
+    height: 100px;
     font-family: 'Courier New', Courier, monospace;
 }
 
@@ -15,11 +15,11 @@ button {
 }
 
 #result{
-    width: 500px;
-    height: 500px;
+    width: 600px;
+    height: 600px;
     margin:1% auto;
 }
 
 img{
-    width: 500px;
+    width: 600px;
 }
