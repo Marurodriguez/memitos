@@ -31,7 +31,13 @@ function imagenAleatoria(){
           './images/28.jpeg',
           './images/29.jpeg',
           './images/30.jpeg',
-          './images/31.jpeg'
+          './images/31.jpeg',
+          './images/32.jpeg',
+          './images/33.jpeg',
+          './images/34.jpeg',
+          './images/35.jpeg',
+          './images/36.jpeg',
+          './images/37.jpeg'
         ];
         
         function obtenerImagenAleatoria() {
