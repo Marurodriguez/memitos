@@ -7,7 +7,7 @@ body{
 
 button {
     width: 15em;
-    height: 5em;
+    height: 3em;
     font-family: 'Courier New', Courier, monospace;
     font-size: 1rem;
     margin: 4em 0 4em 0;
@@ -18,20 +18,3 @@ img{
     width: 50%;
     box-sizing: border-box;
 }
-/* 
-@media screen and (max-width:480px) {
-
-    button {
-        margin: 50% 60% 0;
-        height: 100px;
-        font-family: 'Courier New', Courier, monospace;
-        font-size: 2rem;
-    }
-    
-    
-    img{
-        width: 80em;
-        margin: 60% 20%;
-    }
-
-}  */
